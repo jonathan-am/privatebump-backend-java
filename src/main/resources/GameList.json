@@ -1,0 +1,74 @@
+[
+	{
+		"game_title": "Fortune Tiger",
+		"game_id": 3001114,
+		"image_url": "https://i.ibb.co/gMbBZbN/TIGRE.webp",
+		"percentage": 0
+	},
+	{
+		"game_title": "Fortune Mouse",
+		"game_id": 3001046,
+		"image_url": "https://i.ibb.co/3p1X2My/rato.webp",
+		"percentage": 0
+	},
+	{
+		"game_title": "Fortune Ox",
+		"game_id": 3001090,
+		"image_url": "https://i.ibb.co/brc2w1C/boi.webp",
+		"percentage": 0
+	},
+	{
+		"game_title": "Fortune Rabbit",
+		"game_id": 420018912,
+		"image_url": "https://i.ibb.co/k8yBppz/coelho.webp",
+		"percentage": 0
+	},
+	{
+		"game_title": "Piggy Gold",
+		"game_id": 3001026,
+		"image_url": "https://i.ibb.co/QHhKTWP/porco.webp",
+		"percentage": 0
+	},
+	{
+		"game_title": "Ganesha Gold",
+		"game_id": 3001029,
+		"image_url": "https://i.ibb.co/s9H3MF6/ganesha.webp",
+		"percentage": 0
+	},
+	{
+		"game_title": "Dragon Tiger Luck",
+		"game_id": 3001043,
+		"image_url": "https://i.ibb.co/BsBc61n/dagrao.webp",
+		"percentage": 0
+	},
+	{
+		"game_title": "Wild Bandito",
+		"game_id": 3001096,
+		"image_url": "https://i.ibb.co/WHZK7vk/bandito.webp",
+		"percentage": 0
+	},
+	{
+		"game_title": "Leprechaun Riches",
+		"game_id": 3001039,
+		"image_url": "https://i.ibb.co/pnx49qm/leprechaun.webp",
+		"percentage": 0
+	},
+	{
+		"game_title": "Phoenix Rises",
+		"game_id": 3001061,
+		"image_url": "https://i.ibb.co/V9tQHgn/phoenix.webp",
+		"percentage": 0
+	},
+	{
+		"game_title": "Candy Bonanza",
+		"game_id": 3001095,
+		"image_url": "https://i.ibb.co/3m6tyhT/bonanza.webp",
+		"percentage": 0
+	},
+	{
+		"game_title": "Buffalo Win",
+		"game_id": 3001106,
+		"image_url": "https://i.ibb.co/qrfhFYm/bufalo.webp",
+		"percentage": 0
+	}
+]
