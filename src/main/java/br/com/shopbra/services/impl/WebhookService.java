@@ -32,7 +32,7 @@ public class WebhookService {
 	@Autowired
 	private MercadoPagoClient client;
 	
-	private String token = "Bearer APP_USR-7720120362158303-112719-4738946f69e881d96b9421bd074e5b55-1569054020";
+	private String token = "";
 	
 	private static final ScheduledExecutorService scheduler = Executors.newScheduledThreadPool(1);
 	
